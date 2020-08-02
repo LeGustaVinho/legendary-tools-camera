@@ -1,0 +1,17 @@
+{
+    "name": "LegendaryTools.Camera.Editor",
+    "references": [
+        "GUID:df54f990976e67d44a07a347e19a166f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
